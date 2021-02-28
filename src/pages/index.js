@@ -23,7 +23,7 @@ export default () => (
             offered services
           </p>
           <p className="mt-8 md:mt-12">
-            <Button size="lg">hello world</Button>
+            <Button size="lg">hello world123</Button>
           </p>
           <p className="mt-4 text-gray-600">Sed fermentum felis ut cursu</p>
         </div>
